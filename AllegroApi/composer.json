@@ -1,0 +1,20 @@
+{
+    "name": "req/allegro-api",
+    "description": "Package which help create connection between user and api allegro",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Patryk Piekutowski",
+            "email": "nevvgaming@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "AllegroApi\\": "src/"
+        }
+    }
+
+}
