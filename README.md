@@ -1,3 +1,3 @@
 ## Allegro Api
-In progress:\n
-  *Authorization
+In progress:\
+&nbsp;&nbsp;&nbsp;&nbsp;*Authorization
