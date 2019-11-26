@@ -1,1 +1,2 @@
-# allegro-api
+In progress:
+  -Authorization
