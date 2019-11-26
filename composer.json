@@ -1,6 +1,6 @@
 {
     "name": "req/allegro-api",
-    "description": "Package which help create connection between user and restapi allegro",
+    "description": "Package which help create connection between user and rest api allegro",
     "type": "package",
     "license": "MIT",
     "authors": [
