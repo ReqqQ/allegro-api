@@ -1,2 +1,3 @@
-In progress:
-  -Authorization
+## Allegro Api
+In progress:\n
+  *Authorization
