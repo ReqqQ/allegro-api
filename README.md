@@ -2,8 +2,8 @@
 > This package help with integration yours app with allegro rest api
 
 ## Table of contents
-* [General info](#general-info)
-* [Screenshots](#screenshots)
+* [Ready](#ready)
+* [In Progress](#in-progress)
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Features](#features)
@@ -11,11 +11,11 @@
 * [Inspiration](#inspiration)
 * [Contact](#contact)
 
-## General info
-Add more general information about project. What the purpose of the project is? Motivation?
+## Ready
+* Authorization
 
-## Screenshots
-![Example screenshot](./img/screenshot.png)
+## In Progress
+* Orders Allegro
 
 ## Technologies
 * Tech 1 - version 1.0
@@ -46,4 +46,4 @@ Project is: _in progress_, _finished_, _no longer continue_ and why?
 Add here credits. Project inspired by..., based on...
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+Created by [@ReqqQ](https://github.com/ReqqQ) - feel free to contact me!
