@@ -15,6 +15,10 @@
 
 ## Technologies
 * PHP    - version 7.2.3
-
+## Authorization
+  Authorization is very simple you must just declarate:
+  ```php
+    use AllegroApi\Allegro
+  ```
 ## Contact
 Created by [@ReqqQ](https://github.com/ReqqQ) - feel free to contact me!
