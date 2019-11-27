@@ -5,11 +5,7 @@
 * [Ready](#ready)
 * [In Progress](#in-progress)
 * [Technologies](#technologies)
-* [Setup](#setup)
-* [Features](#features)
-* [Status](#status)
-* [Inspiration](#inspiration)
-* [Contact](#contact)
+
 
 ## Ready
 * Authorization
