@@ -4,7 +4,8 @@ use AllegroApi\Allegro;
 
 Class Orders extends Allegro{
     public static function checkoutForms($data=[],$simple=false){
-        if($simple){
+        if($simple){ 
+            //
             self::$curlUrl = "https://api.allegro.pl/order/checkout-forms/$id";
         }
         else {
