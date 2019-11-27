@@ -20,5 +20,10 @@
   ```php
     use AllegroApi\Allegro
   ```
+  then for set connection use:
+  ```php
+        Allegro::setConnection(string $clientId, string $clientSecret, string $redirectUrl)
+  ```
+   All this arguments you can get from [RestApiAllegro](https://apps.developer.allegro.pl/new),after register your app you will get that data
 ## Contact
 Created by [@ReqqQ](https://github.com/ReqqQ) - feel free to contact me!
