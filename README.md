@@ -14,10 +14,7 @@
 * Orders Allegro
 
 ## Technologies
-* Tech 1 - version 1.0
-* Tech 2 - version 2.0
-* Tech 3 - version 3.0
-
+* PHP    - version 7.2.3
 
 ## Contact
 Created by [@ReqqQ](https://github.com/ReqqQ) - feel free to contact me!
