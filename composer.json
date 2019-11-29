@@ -9,7 +9,6 @@
             "email": "nevvgaming@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {
         "php": ">=7.0.0",
         "laravel/framework":">=5.8.0"
@@ -17,6 +16,11 @@
     "autoload": {
         "psr-4": {
             "AllegroApi\\": "src/"
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0.x-dev"
         }
     }
 
