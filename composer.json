@@ -18,10 +18,5 @@
         "psr-4": {
             "AllegroApi\\": "src/"
         }
-    }
-<<<<<<< Updated upstream
-=======
-    
->>>>>>> Stashed changes
 
 }
