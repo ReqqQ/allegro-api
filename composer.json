@@ -18,6 +18,8 @@
         "psr-4": {
             "AllegroApi\\": "src/"
         }
-    }
+    },
+    "version": "1.0.0"
+    
 
 }
