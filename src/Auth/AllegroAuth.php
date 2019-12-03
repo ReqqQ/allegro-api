@@ -2,11 +2,10 @@
 
 namespace AllegroApi\Auth;
 
-use AllegroApi\Allegro;
-
-class AllegroAuth extends Allegro
+use AllegroApi\AllegroRestApi\AllegroRestApi;
+class AllegroAuth extends AllegroRestApi
 {
-    private static $curlUrl;
+
     /**
      * Returns Url to Auth.
      *
@@ -36,7 +35,7 @@ class AllegroAuth extends Allegro
 
         ($refresh) ? self::refreshToken($result->refresh_token) : self::saveData($result);
     }
-    private static function refreshToken($refresh)
+    protected static function refreshToken($refresh)
     {
         $data = http_build_query(array('grant_type' => 'refresh_token', 'refresh_token' => $refresh));
         self::$curlUrl = "https://allegro.pl/auth/oauth/token?$data";

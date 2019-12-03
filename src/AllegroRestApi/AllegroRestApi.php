@@ -1,8 +1,10 @@
 <?php
-namespace AllegroApi;
+namespace AllegroApi\AllegroRestApi;
 
-class Allegro
+
+class AllegroRestApi 
 {
+ 
     protected static $clientId;
     protected static $clientSecret;
     protected static $redirectUrl;
@@ -30,7 +32,7 @@ class Allegro
             curl_setopt($curl, CURLOPT_POSTFIELDS, http_build_query($postArray));
         }
         $result = json_decode(curl_exec($curl));
-        echo var_dump($result);
+       // echo var_dump($result);
         return $result;
     }
 }
