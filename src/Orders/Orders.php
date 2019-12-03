@@ -2,9 +2,9 @@
 
 namespace AllegroApi\Orders;
 
-use AllegroApi\AllegroRestApi\AllegroRestApi;
+use AllegroApi\Auth\AllegroAuth;
 
-class Orders extends AllegroRestApi
+class Orders extends AllegroAuth
 {
     public static function checkoutForms($data = [], $simple = false)
     {

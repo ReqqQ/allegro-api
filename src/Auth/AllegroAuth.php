@@ -3,7 +3,8 @@
 namespace AllegroApi\Auth;
 
 use AllegroApi\AllegroRestApi\AllegroRestApi;
-class AllegroAuth extends AllegroRestApi
+
+class AllegroAuth extends AllegroRestApi 
 {
 
     /**
